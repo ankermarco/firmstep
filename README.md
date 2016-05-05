@@ -36,6 +36,13 @@ $ sudo vim /etc/hosts
 add "192.168.99.100 firmstep.local"
 ```
 
+Run database migration and seeding the service table
+```shell
+$ cd htdocs
+$ php artisan migrate
+$ php artisan db:seed
+```
+
 Open your faviour browser and goto http://firmtest.local
 
 ### Unit Testing
