@@ -1,0 +1,8 @@
+MYSQL_HOST=mysql
+MYSQL_ROOT_PASSWORD=root
+MYSQL_USER=firmstep
+MYSQL_PASSWORD=firmstep
+MYSQL_DATABASE=firmstep
+
+MAGENTO_URL=http://firmstep.local
+APACHE_SERVER_NAME=firmstep.local
